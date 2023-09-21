@@ -1,0 +1,31 @@
+Item ID,Item Name,Category,Quantity in Stock,Price per Unit,Supplier,Date Added
+101,iPhone 13,Electronics,50,799.99,Apple Inc.,2023-01-15
+102,Samsung Galaxy S21,Electronics,30,699.99,Samsung Electronics,2023-02-10
+103,HP Pavilion Laptop,Electronics,20,899.99,Hewlett-Packard,2023-03-05
+104,LEGO Star Wars Millennium Falcon,Toys & Games,40,149.99,LEGO Group,2023-04-20
+105,Adidas UltraBoost 21 Running Shoes,Apparel,60,129.99,Adidas,2023-05-12
+106,KitchenAid Stand Mixer,Home & Kitchen,25,299.99,KitchenAid,2023-06-08
+107,Amazon Echo Dot (4th Gen),Electronics,35,49.99,Amazon,2023-07-17
+108,Nerf N-Strike Elite Disruptor Blaster,Toys & Games,15,12.99,Hasbro,2023-08-22
+109,Sony PlayStation 5,Electronics,10,499.99,Sony Interactive Entertainment,2023-09-14
+110,Nike Air Max 90 Sneakers,Apparel,45,109.99,Nike Inc.,2023-10-30
+111,Philips Hue Smart Bulb Starter Kit,Electronics,28,149.99,Philips,2023-11-25
+112,Canon EOS Rebel T7 DSLR Camera,Electronics,38,599.99,Canon Inc.,2023-12-18
+113,Monopoly Classic Board Game,Toys & Games,42,19.99,Hasbro,2024-01-02
+114,Levi's 501 Original Fit Jeans,Apparel,55,49.99,Levi Strauss & Co.,2024-02-15
+115,Sony 65-inch 4K Ultra HD Smart LED TV,Electronics,18,999.99,Sony Electronics,2024-03-10
+116,Cuisinart 14-Cup Food Processor,Home & Kitchen,22,199.99,Cuisinart,2024-04-05
+117,PlayStation 5 DualSense Wireless Controller,Electronics,33,69.99,Sony Interactive Entertainment,2024-05-20
+118,Calvin Klein Men's Cotton Boxer Briefs,Apparel,70,29.99,Calvin Klein,2024-06-15
+119,DeWalt 20V MAX Cordless Drill,Tools & Home Improvement,12,149.99,DeWalt,2024-07-12
+120,Google Nest Learning Thermostat,Electronics,27,249.99,Google,2024-08-28
+121,Bose QuietComfort 35 II Wireless Headphones,Electronics,19,299.99,Bose Corporation,2024-09-22
+122,Dyson V11 Animal Cordless Vacuum Cleaner,Home Appliances,8,599.99,Dyson Ltd.,2024-10-10
+123,LEGO Harry Potter Hogwarts Castle,Toys & Games,35,129.99,LEGO Group,2024-11-15
+124,North Face Men's Apex Bionic 2 Jacket,Apparel,40,129.99,The North Face,2024-12-30
+125,Apple Watch Series 7,Electronics,15,349.99,Apple Inc.,2025-01-18
+126,Samsung 75-inch QLED 4K Smart TV,Electronics,10,1299.99,Samsung Electronics,2025-02-03
+127,KitchenAid 5-Quart Artisan Stand Mixer,Home & Kitchen,28,349.99,KitchenAid,2025-03-22
+128,Fitbit Charge 5 Fitness Tracker,Electronics,36,179.99,Fitbit,2025-04-10
+129,Xbox Series X Gaming Console,Electronics,10,499.99,Microsoft Corporation,2025-05-15
+130,Puma Men's Suede Classic Sneakers,Apparel,50,59.99,Puma,2025-06-20

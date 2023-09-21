@@ -1,0 +1,45 @@
+/* style.css */
+body {
+    background-color: #121212; /* Dark background color */
+    color: #FFFFFF; /* Text color */
+}
+
+/* Header style */
+h1 {
+    text-align: center;
+    padding: 20px;
+    background-color: #1d2023; /* Header color */
+}
+
+/* Chart containers */
+#data-table, #category-pie, .card {
+    width: 45%;
+    display: inline-block;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1); /* Chart box shadow */
+}
+
+.card{
+    background: black;
+    width: 30%;
+}
+
+.card-container, .card-graph{
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.num_display{
+    font-size: 30px;
+    font-family: monospace;
+    margin: 0;
+}
+
+/* Adjust chart margins for responsive design */
+@media (max-width: 768px) {
+    #data-table, #category-pie {
+        width: 100%;
+    }
+}
